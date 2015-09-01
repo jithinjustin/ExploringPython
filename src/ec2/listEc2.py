@@ -1,4 +1,6 @@
 __author__ = 'jithinjustin'
+
+#code for listing ec2 instances
 import boto.ec2
 import sys
 
